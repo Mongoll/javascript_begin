@@ -1,0 +1,8 @@
+{
+  "name": "bof-javascript",
+  "version": "1.0.0",
+  "description": "javascript assignment",
+  "main": "index.js",
+  "author": "Andrea",
+  "license": "MIT"
+}
